@@ -6,6 +6,7 @@ I will be solving and pushing it here .
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0125-valid-palindrome) |
@@ -22,6 +23,7 @@ I will be solving and pushing it here .
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -39,4 +41,8 @@ I will be solving and pushing it here .
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
