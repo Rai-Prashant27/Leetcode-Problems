@@ -34,6 +34,7 @@ I will be solving and pushing it here .
 | [0643-maximum-average-subarray-i](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +62,5 @@ I will be solving and pushing it here .
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
