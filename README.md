@@ -31,6 +31,7 @@ I will be solving and pushing it here .
 | [0027-remove-element](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -56,4 +57,8 @@ I will be solving and pushing it here .
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
