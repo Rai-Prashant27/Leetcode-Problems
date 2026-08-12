@@ -7,6 +7,7 @@ I will be solving and pushing it here .
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0125-valid-palindrome) |
@@ -25,6 +26,7 @@ I will be solving and pushing it here .
 | ------- |
 | [0001-two-sum](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -42,6 +44,7 @@ I will be solving and pushing it here .
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0015-3sum) |
 | [0881-boats-to-save-people](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
