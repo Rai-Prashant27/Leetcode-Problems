@@ -13,6 +13,7 @@ I will be solving and pushing it here .
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -28,6 +29,7 @@ I will be solving and pushing it here .
 | [0027-remove-element](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -40,9 +42,15 @@ I will be solving and pushing it here .
 ## Sorting
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Rai-Prashant27/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
